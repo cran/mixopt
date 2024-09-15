@@ -1,3 +1,7 @@
+# mixopt 0.1.3
+
+* Fixed Suggests issue to stay on CRAN.
+
 # mixopt 0.1.2
 
 * Added indexing so it can work with standard functions.
@@ -5,6 +9,8 @@
 * Created `mixopt_blockcd` to do block coordinate descent.
 
 * Added fngr (evaluate function and gradient simultaneously) option.
+
+* Accepted to CRAN on 1/16/23.
 
 # mixopt 0.1.1
 
